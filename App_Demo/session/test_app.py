@@ -1,7 +1,5 @@
 from appium import webdriver
-import time
-import pytest
-from Pageop import BasePage
+from session.Pageop import BasePage
 
 '''Desired Capability'''
 
